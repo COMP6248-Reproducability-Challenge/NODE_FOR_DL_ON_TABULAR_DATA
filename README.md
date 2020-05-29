@@ -18,5 +18,5 @@ for data set:['A9A','PROTEIN','YEAR','MICROSOFT','YAHOO','CLICK']
 'EPSILON' and 'HIGGS' are highly GPU momery usage.
 
 we added two more date set 
-1. ‘ADULT’:
+1. ‘ADULT’: https://www.kaggle.com/uciml/adult-census-income
 2. ‘SHELTER':https://www.kaggle.com/c/shelter-animal-outcomes/data
